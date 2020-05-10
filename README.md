@@ -1,2 +1,2 @@
 # R_practise
-Linked wirh RStudio
+Linked with RStudio
